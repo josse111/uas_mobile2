@@ -1,4 +1,4 @@
-# UTS MOBILE
+# UAS MOBILE
 * Nama : Zaki Fauzan Akhbari
 * Nim : 312410348
 * Matkul : pemograman mobile 2
@@ -16,7 +16,10 @@
 *   **Penyimpanan Lokal/Cloud:** (Sesuaikan: misal menggunakan SQLite, Room, atau Firebase).
 
 ## List Clickup Yang saya gunakan
+**Sebelum**
 <img width="1208" height="548" alt="Screenshot 2026-05-02 193550" src="https://github.com/user-attachments/assets/2ea60d13-0d71-457e-9374-0b334112614c" />
+**Sesudah**
+<img width="1848" height="846" alt="image" src="https://github.com/user-attachments/assets/f8a06f3f-f592-47cc-bf0b-7e94ecbcf85d" />
 
 
 ## 🛠️ Teknologi yang Digunakan
@@ -68,4 +71,7 @@ Kontribusi selalu terbuka! Jika Anda memiliki ide atau menemukan bug, silakan bu
 5. Buat Pull Request.
 
 ---
+
+LINK CLICKUP : https://app.clickup.com/90182006682/v/li/901813057380 
+
 **Developed with ❤️ by [Zaki Fauzan Akhbari]**
